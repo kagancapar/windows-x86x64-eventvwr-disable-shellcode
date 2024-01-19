@@ -1,0 +1,1 @@
+# windows-x86x64-eventvwr-disable-shellcode
